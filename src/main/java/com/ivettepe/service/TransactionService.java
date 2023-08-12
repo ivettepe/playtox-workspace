@@ -7,18 +7,20 @@ import org.slf4j.*;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
 public class TransactionService {
     private final AccountService service;
-    private final ExecutorService threadPool;
     private final List<Account> accountList;
     private final Logger logger = LoggerFactory.getLogger(TransactionService.class);
+    private final int totalThreads;
+
 
     public TransactionService(int totalAccounts, int totalThreads) {
         service = new AccountService();
-        threadPool = Executors.newFixedThreadPool(totalThreads);
+        this.totalThreads = totalThreads;
         accountList = service.generateAccountList(totalAccounts);
     }
 
@@ -27,10 +29,18 @@ public class TransactionService {
     }
 
     public void start(int totalTransactions) {
+        ExecutorService threadPool = Executors.newFixedThreadPool(totalThreads);
+        Semaphore semaphore = new Semaphore(totalThreads);
         for (int i = 0; i < totalTransactions; i++) {
             threadPool.execute(() -> {
-                int[] accountPair = Utils.getRandomPairByLimit(getTotalAccounts());
-                service.makeShuffleTransactionsWithRandomAmount(accountList, accountPair);
+                try {
+                    semaphore.acquire();
+                    int[] accountPair = Utils.getRandomPairByLimit(getTotalAccounts());
+                    service.makeShuffleTransactionsWithRandomAmount(accountList, accountPair);
+                    semaphore.release();
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
             });
         }
 
