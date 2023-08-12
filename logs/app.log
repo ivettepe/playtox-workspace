@@ -1,0 +1,1049 @@
+04-08-2023 00:44:37.400 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+04-08-2023 00:44:37.432 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account 1hj;1%.He started.
+Transaction amount - 7733. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.432 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account opuVN5WuP started.
+Transaction amount - 3994. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.432 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account O6|&as+gf started.
+Transaction amount - 7055. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.450 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account odv,X/a5R to account 1hj;1%.He started.
+Transaction amount - 7733
+04-08-2023 00:44:37.451 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account lj`y^6pO) to account O6|&as+gf started.
+Transaction amount - 7055
+04-08-2023 00:44:37.450 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account opuVN5WuP started.
+Transaction amount - 3994
+04-08-2023 00:44:37.452 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account odv,X/a5R to account 1hj;1%.He completed.
+Sender's account total - 2267. Recipient's final account - 17733
+04-08-2023 00:44:37.453 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account opuVN5WuP completed.
+Sender's account total - 6006. Recipient's final account - 13994
+04-08-2023 00:44:37.454 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account 1hj;1%.He completed.
+Transaction amount  - 7733. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.454 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account odv,X/a5R started.
+Transaction amount - 1217. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.454 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account odv,X/a5R started.
+Transaction amount - 1217
+04-08-2023 00:44:37.455 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account odv,X/a5R completed.
+Sender's account total - 12777. Recipient's final account - 3484
+04-08-2023 00:44:37.452 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account lj`y^6pO) to account O6|&as+gf completed.
+Sender's account total - 2945. Recipient's final account - 17055
+04-08-2023 00:44:37.455 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account odv,X/a5R completed.
+Transaction amount  - 1217. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.456 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account opuVN5WuP completed.
+Transaction amount  - 3994. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.458 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account O6|&as+gf completed.
+Transaction amount  - 7055. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.459 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account odv,X/a5R started.
+Transaction amount - 937. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.460 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account 3I<aA*vw7 started.
+Transaction amount - 6613. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.461 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account opuVN5WuP started.
+Transaction amount - 6387. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.462 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account odv,X/a5R started.
+Transaction amount - 937
+04-08-2023 00:44:37.463 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account 3I<aA*vw7 started.
+Transaction amount - 6613
+04-08-2023 00:44:37.463 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account lj`y^6pO) to account opuVN5WuP started.
+Transaction amount - 6387
+04-08-2023 00:44:37.464 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account odv,X/a5R completed.
+Sender's account total - 9063. Recipient's final account - 4421
+04-08-2023 00:44:37.465 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account odv,X/a5R completed.
+Transaction amount  - 937. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.465 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account 3I<aA*vw7 completed.
+Sender's account total - 2450. Recipient's final account - 16613
+04-08-2023 00:44:37.465 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account lj`y^6pO)
+04-08-2023 00:44:37.465 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account O6|&as+gf started.
+Transaction amount - 4845. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.466 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account 3I<aA*vw7 completed.
+Transaction amount  - 6613. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.466 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account lj`y^6pO) to account O6|&as+gf started.
+Transaction amount - 4845
+04-08-2023 00:44:37.466 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Bs+9w;e03 to account opuVN5WuP started.
+Transaction amount - 9059. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.466 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account lj`y^6pO)
+04-08-2023 00:44:37.467 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Bs+9w;e03 to account opuVN5WuP started.
+Transaction amount - 9059
+04-08-2023 00:44:37.468 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Bs+9w;e03 to account opuVN5WuP completed.
+Sender's account total - 941. Recipient's final account - 21836
+04-08-2023 00:44:37.469 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Bs+9w;e03 to account opuVN5WuP completed.
+Transaction amount  - 9059. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.470 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account opuVN5WuP started.
+Transaction amount - 5077. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.472 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account opuVN5WuP started.
+Transaction amount - 5077
+04-08-2023 00:44:37.472 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account opuVN5WuP completed.
+Sender's account total - 929. Recipient's final account - 26913
+04-08-2023 00:44:37.472 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account opuVN5WuP completed.
+Transaction amount  - 5077. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.473 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account lj`y^6pO) started.
+Transaction amount - 5583. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.473 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account lj`y^6pO) started.
+Transaction amount - 5583
+04-08-2023 00:44:37.473 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account lj`y^6pO) completed.
+Sender's account total - 12150. Recipient's final account - 8528
+04-08-2023 00:44:37.473 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account lj`y^6pO) completed.
+Transaction amount  - 5583. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.473 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account opuVN5WuP started.
+Transaction amount - 1309. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.474 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account opuVN5WuP started.
+Transaction amount - 1309
+04-08-2023 00:44:37.475 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account opuVN5WuP completed.
+Sender's account total - 8691. Recipient's final account - 28222
+04-08-2023 00:44:37.477 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account opuVN5WuP completed.
+Transaction amount  - 1309. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.478 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account opuVN5WuP started.
+Transaction amount - 6192. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.481 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account opuVN5WuP started.
+Transaction amount - 6192
+04-08-2023 00:44:37.482 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account opuVN5WuP completed.
+Sender's account total - 2499. Recipient's final account - 34414
+04-08-2023 00:44:37.483 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account opuVN5WuP completed.
+Transaction amount  - 6192. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.483 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account lj`y^6pO) started.
+Transaction amount - 1585. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.483 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account lj`y^6pO) started.
+Transaction amount - 1585
+04-08-2023 00:44:37.484 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account #qW_?oV3o
+04-08-2023 00:44:37.490 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account opuVN5WuP canceled.
+Transaction amount  - 6387. Not enough funds on the sender's account
+04-08-2023 00:44:37.491 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account lj`y^6pO) canceled.
+Transaction amount  - 1585. Not enough funds on the sender's account
+04-08-2023 00:44:37.492 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account 3I<aA*vw7 started.
+Transaction amount - 8677. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.493 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account odv,X/a5R to account 3I<aA*vw7 started.
+Transaction amount - 8677
+04-08-2023 00:44:37.492 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account O6|&as+gf to account lj`y^6pO) started.
+Transaction amount - 2983. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.494 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account O6|&as+gf to account lj`y^6pO) started.
+Transaction amount - 2983
+04-08-2023 00:44:37.494 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account O6|&as+gf to account lj`y^6pO) completed.
+Sender's account total - 14072. Recipient's final account - 11511
+04-08-2023 00:44:37.494 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account lj`y^6pO) to account O6|&as+gf canceled.
+Transaction amount  - 4845. Not enough funds on the sender's account
+04-08-2023 00:44:37.494 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account odv,X/a5R
+04-08-2023 00:44:37.495 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account 3I<aA*vw7 canceled.
+Transaction amount  - 8677. Not enough funds on the sender's account
+04-08-2023 00:44:37.496 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account O6|&as+gf started.
+Transaction amount - 3507. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.495 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account O6|&as+gf to account lj`y^6pO) completed.
+Transaction amount  - 2983. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.495 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account O6|&as+gf to account 1hj;1%.He started.
+Transaction amount - 2519. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.496 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 started.
+Transaction amount - 7348. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.509 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 started.
+Transaction amount - 7348
+04-08-2023 00:44:37.510 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account *x&F9xvd)
+04-08-2023 00:44:37.510 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 canceled.
+Transaction amount  - 7348. Not enough funds on the sender's account
+04-08-2023 00:44:37.510 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 1hj;1%.He started.
+Transaction amount - 4876. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.511 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account 1hj;1%.He started.
+Transaction amount - 4876
+04-08-2023 00:44:37.509 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account O6|&as+gf to account 1hj;1%.He started.
+Transaction amount - 2519
+04-08-2023 00:44:37.511 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account *x&F9xvd)
+04-08-2023 00:44:37.511 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 1hj;1%.He canceled.
+Transaction amount  - 4876. Not enough funds on the sender's account
+04-08-2023 00:44:37.511 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account O6|&as+gf to account 1hj;1%.He completed.
+Sender's account total - 11553. Recipient's final account - 14669
+04-08-2023 00:44:37.496 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account O6|&as+gf started.
+Transaction amount - 3507
+04-08-2023 00:44:37.512 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account odv,X/a5R started.
+Transaction amount - 3609. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.512 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account O6|&as+gf to account 1hj;1%.He completed.
+Transaction amount  - 2519. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.512 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account odv,X/a5R started.
+Transaction amount - 3609
+04-08-2023 00:44:37.513 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account odv,X/a5R completed.
+Sender's account total - 27298. Recipient's final account - 8030
+04-08-2023 00:44:37.513 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account odv,X/a5R completed.
+Transaction amount  - 3609. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.514 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account dt@:)7hj` started.
+Transaction amount - 5434. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.513 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 3I<aA*vw7 to account O6|&as+gf started.
+Transaction amount - 993. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.514 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account odv,X/a5R to account dt@:)7hj` started.
+Transaction amount - 5434
+04-08-2023 00:44:37.514 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account odv,X/a5R to account dt@:)7hj` completed.
+Sender's account total - 2596. Recipient's final account - 7884
+04-08-2023 00:44:37.515 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 3I<aA*vw7 to account O6|&as+gf started.
+Transaction amount - 993
+04-08-2023 00:44:37.515 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 3I<aA*vw7 to account O6|&as+gf completed.
+Sender's account total - 15620. Recipient's final account - 16053
+04-08-2023 00:44:37.515 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 3I<aA*vw7 to account O6|&as+gf completed.
+Transaction amount  - 993. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.515 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account odv,X/a5R to account dt@:)7hj` completed.
+Transaction amount  - 5434. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.516 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account odv,X/a5R started.
+Transaction amount - 2809. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.516 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account #qW_?oV3o to account odv,X/a5R started.
+Transaction amount - 2809
+04-08-2023 00:44:37.516 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account O6|&as+gf started.
+Transaction amount - 1531. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.516 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account #qW_?oV3o
+04-08-2023 00:44:37.516 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account O6|&as+gf started.
+Transaction amount - 1531
+04-08-2023 00:44:37.517 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account O6|&as+gf completed.
+Sender's account total - 13138. Recipient's final account - 17584
+04-08-2023 00:44:37.517 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account O6|&as+gf completed.
+Transaction amount  - 1531. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.517 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account #qW_?oV3o to account odv,X/a5R canceled.
+Transaction amount  - 2809. Not enough funds on the sender's account
+04-08-2023 00:44:37.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account odv,X/a5R started.
+Transaction amount - 4426. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.518 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account dt@:)7hj` started.
+Transaction amount - 7042. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.518 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account dt@:)7hj` started.
+Transaction amount - 7042
+04-08-2023 00:44:37.518 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account *x&F9xvd)
+04-08-2023 00:44:37.519 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account dt@:)7hj` canceled.
+Transaction amount  - 7042. Not enough funds on the sender's account
+04-08-2023 00:44:37.519 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 started.
+Transaction amount - 8222. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.519 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 started.
+Transaction amount - 8222
+04-08-2023 00:44:37.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account odv,X/a5R started.
+Transaction amount - 4426
+04-08-2023 00:44:37.519 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dt@:)7hj` to account odv,X/a5R completed.
+Sender's account total - 3458. Recipient's final account - 7022
+04-08-2023 00:44:37.520 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dt@:)7hj` to account odv,X/a5R completed.
+Transaction amount  - 4426. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.520 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account dt@:)7hj` started.
+Transaction amount - 860. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.519 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account *x&F9xvd)
+04-08-2023 00:44:37.512 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account opuVN5WuP to account O6|&as+gf completed.
+Sender's account total - 30907. Recipient's final account - 15060
+04-08-2023 00:44:37.520 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account *x&F9xvd) to account 3I<aA*vw7 canceled.
+Transaction amount  - 8222. Not enough funds on the sender's account
+04-08-2023 00:44:37.520 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account dt@:)7hj` started.
+Transaction amount - 860
+04-08-2023 00:44:37.521 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account opuVN5WuP to account O6|&as+gf completed.
+Transaction amount  - 3507. In the thread - pool-1-thread-2
+04-08-2023 00:44:37.521 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 3I<aA*vw7 to account 1hj;1%.He started.
+Transaction amount - 8469. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.521 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1hj;1%.He to account dt@:)7hj` completed.
+Sender's account total - 12278. Recipient's final account - 4318
+04-08-2023 00:44:37.521 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 3I<aA*vw7 to account 1hj;1%.He started.
+Transaction amount - 8469
+04-08-2023 00:44:37.522 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 3I<aA*vw7 to account 1hj;1%.He completed.
+Sender's account total - 7151. Recipient's final account - 20747
+04-08-2023 00:44:37.522 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 3I<aA*vw7 to account 1hj;1%.He completed.
+Transaction amount  - 8469. In the thread - pool-1-thread-3
+04-08-2023 00:44:37.522 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1hj;1%.He to account dt@:)7hj` completed.
+Transaction amount  - 860. In the thread - pool-1-thread-1
+04-08-2023 00:44:37.543 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: Bs+9w;e03 total money= 941
+, Account id: opuVN5WuP total money= 27298
+, Account id: 1hj;1%.He total money= 20747
+, Account id: #qW_?oV3o total money= 929
+, Account id: lj`y^6pO) total money= 11511
+, Account id: dt@:)7hj` total money= 4318
+, Account id: O6|&as+gf total money= 17584
+, Account id: *x&F9xvd) total money= 2499
+, Account id: odv,X/a5R total money= 7022
+, Account id: 3I<aA*vw7 total money= 7151
+]
+04-08-2023 00:44:37.544 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+04-08-2023 00:46:01.528 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+04-08-2023 00:46:01.560 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ started. Transaction amount - 3409. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.562 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account {DOjRxZ^* to account u`E*nqWAc started. Transaction amount - 7298. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.562 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account C7[ez9?OK started. Transaction amount - 4079. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.598 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account {DOjRxZ^* to account u`E*nqWAc started. Transaction amount - 7298
+04-08-2023 00:46:01.600 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ started. Transaction amount - 3409
+04-08-2023 00:46:01.600 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account C7[ez9?OK started. Transaction amount - 4079
+04-08-2023 00:46:01.601 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ completed. Sender's account total - 6591. Recipient's final account - 13409
+04-08-2023 00:46:01.601 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account {DOjRxZ^* to account u`E*nqWAc completed. Sender's account total - 2702. Recipient's final account - 17298
+04-08-2023 00:46:01.601 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account C7[ez9?OK completed. Sender's account total - 5921. Recipient's final account - 14079
+04-08-2023 00:46:01.602 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account {DOjRxZ^* to account u`E*nqWAc completed. Transaction amount  - 7298. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.602 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ completed. Transaction amount  - 3409. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.602 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account C7[ez9?OK completed. Transaction amount  - 4079. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.603 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account 1SW,pO!KZ started. Transaction amount - 4431. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.603 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 375. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.604 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 375
+04-08-2023 00:46:01.604 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account 1SW,pO!KZ started. Transaction amount - 4431
+04-08-2023 00:46:01.603 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ,Vk}YB)R/ to account C7[ez9?OK started. Transaction amount - 8833. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.608 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ,Vk}YB)R/ to account C7[ez9?OK started. Transaction amount - 8833
+04-08-2023 00:46:01.608 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account 1SW,pO!KZ completed. Sender's account total - 1490. Recipient's final account - 18215
+04-08-2023 00:46:01.605 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Sender's account total - 9625. Recipient's final account - 13784
+04-08-2023 00:46:01.609 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account 1SW,pO!KZ completed. Transaction amount  - 4431. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.610 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ,Vk}YB)R/ to account C7[ez9?OK completed. Sender's account total - 1167. Recipient's final account - 22912
+04-08-2023 00:46:01.610 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Transaction amount  - 375. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.611 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ,Vk}YB)R/ to account C7[ez9?OK completed. Transaction amount  - 8833. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.610 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 3759. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.611 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account >UaXU\JIF started. Transaction amount - 1989. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.611 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account {DOjRxZ^* to account hGm`<le<I started. Transaction amount - 9193. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.615 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account {DOjRxZ^* to account hGm`<le<I started. Transaction amount - 9193
+04-08-2023 00:46:01.611 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 3759
+04-08-2023 00:46:01.621 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Sender's account total - 5866. Recipient's final account - 21974
+04-08-2023 00:46:01.618 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account {DOjRxZ^*
+04-08-2023 00:46:01.621 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Transaction amount  - 3759. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.612 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account >UaXU\JIF started. Transaction amount - 1989
+04-08-2023 00:46:01.623 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account Q5h6+:6.V started. Transaction amount - 9280. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.625 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account Q5h6+:6.V started. Transaction amount - 9280
+04-08-2023 00:46:01.626 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account Q5h6+:6.V completed. Sender's account total - 12694. Recipient's final account - 19280
+04-08-2023 00:46:01.627 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account Q5h6+:6.V completed. Transaction amount  - 9280. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.628 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account {DOjRxZ^* started. Transaction amount - 394. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.630 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account {DOjRxZ^* started. Transaction amount - 394
+04-08-2023 00:46:01.623 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account >UaXU\JIF completed. Sender's account total - 15309. Recipient's final account - 7855
+04-08-2023 00:46:01.630 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account {DOjRxZ^* completed. Sender's account total - 18886. Recipient's final account - 3096
+04-08-2023 00:46:01.632 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account >UaXU\JIF completed. Transaction amount  - 1989. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.633 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account {DOjRxZ^* completed. Transaction amount  - 394. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.634 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account hGm`<le<I to account u`E*nqWAc started. Transaction amount - 1634. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.634 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account u`E*nqWAc started. Transaction amount - 1254. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.635 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account hGm`<le<I to account u`E*nqWAc started. Transaction amount - 1634
+04-08-2023 00:46:01.635 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $e}V./RkG to account u`E*nqWAc started. Transaction amount - 1254
+04-08-2023 00:46:01.638 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $e}V./RkG to account u`E*nqWAc completed. Sender's account total - 5337. Recipient's final account - 18197
+04-08-2023 00:46:01.639 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account u`E*nqWAc completed. Transaction amount  - 1254. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.639 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account C7[ez9?OK started. Transaction amount - 1970. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.638 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account hGm`<le<I to account u`E*nqWAc completed. Sender's account total - 8366. Recipient's final account - 16943
+04-08-2023 00:46:01.642 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account hGm`<le<I to account u`E*nqWAc completed. Transaction amount  - 1634. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.639 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account C7[ez9?OK started. Transaction amount - 1970
+04-08-2023 00:46:01.644 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account C7[ez9?OK completed. Sender's account total - 5885. Recipient's final account - 24882
+04-08-2023 00:46:01.642 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account {DOjRxZ^* started. Transaction amount - 4147. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.645 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account C7[ez9?OK completed. Transaction amount  - 1970. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.651 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ started. Transaction amount - 5930. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.652 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ started. Transaction amount - 5930
+04-08-2023 00:46:01.653 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account $e}V./RkG
+04-08-2023 00:46:01.645 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account {DOjRxZ^* started. Transaction amount - 4147
+04-08-2023 00:46:01.665 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account {DOjRxZ^* to account hGm`<le<I canceled. Transaction amount  - 9193. Not enough funds on the sender's account
+04-08-2023 00:46:01.665 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account u`E*nqWAc started. Transaction amount - 5437. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.669 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]p6^;wH>H to account u`E*nqWAc started. Transaction amount - 5437
+04-08-2023 00:46:01.656 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account ]p6^;wH>H
+04-08-2023 00:46:01.671 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account {DOjRxZ^* canceled. Transaction amount  - 4147. Not enough funds on the sender's account
+04-08-2023 00:46:01.671 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account >UaXU\JIF started. Transaction amount - 9644. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.672 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account >UaXU\JIF started. Transaction amount - 9644
+04-08-2023 00:46:01.672 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account >UaXU\JIF completed. Sender's account total - 15238. Recipient's final account - 15529
+04-08-2023 00:46:01.672 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account ]p6^;wH>H
+04-08-2023 00:46:01.672 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]p6^;wH>H to account u`E*nqWAc canceled. Transaction amount  - 5437. Not enough funds on the sender's account
+04-08-2023 00:46:01.673 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account >UaXU\JIF started. Transaction amount - 3466. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.672 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account >UaXU\JIF completed. Transaction amount  - 9644. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.680 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 3548. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.672 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $e}V./RkG to account 1SW,pO!KZ canceled. Transaction amount  - 5930. Not enough funds on the sender's account
+04-08-2023 00:46:01.682 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account C7[ez9?OK started. Transaction amount - 5086. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.673 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account >UaXU\JIF started. Transaction amount - 3466
+04-08-2023 00:46:01.682 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ started. Transaction amount - 3548
+04-08-2023 00:46:01.683 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account >UaXU\JIF completed. Sender's account total - 9228. Recipient's final account - 18995
+04-08-2023 00:46:01.686 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account >UaXU\JIF completed. Transaction amount  - 3466. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.686 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Sender's account total - 15447. Recipient's final account - 12776
+04-08-2023 00:46:01.686 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account hGm`<le<I started. Transaction amount - 3418. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.687 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account 1SW,pO!KZ completed. Transaction amount  - 3548. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.687 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account hGm`<le<I started. Transaction amount - 3418
+04-08-2023 00:46:01.687 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account hGm`<le<I to account u`E*nqWAc started. Transaction amount - 2949. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.688 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account hGm`<le<I completed. Sender's account total - 11820. Recipient's final account - 11784
+04-08-2023 00:46:01.688 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account hGm`<le<I to account u`E*nqWAc started. Transaction amount - 2949
+04-08-2023 00:46:01.688 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account hGm`<le<I completed. Transaction amount  - 3418. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.688 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account ]p6^;wH>H started. Transaction amount - 6171. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.688 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account hGm`<le<I to account u`E*nqWAc completed. Sender's account total - 8835. Recipient's final account - 21146
+04-08-2023 00:46:01.688 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account ]p6^;wH>H started. Transaction amount - 6171
+04-08-2023 00:46:01.688 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account hGm`<le<I to account u`E*nqWAc completed. Transaction amount  - 2949. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.688 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account ,Vk}YB)R/ started. Transaction amount - 8845. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account C7[ez9?OK to account ]p6^;wH>H completed. Sender's account total - 5649. Recipient's final account - 7661
+04-08-2023 00:46:01.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account ,Vk}YB)R/ started. Transaction amount - 8845
+04-08-2023 00:46:01.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account ,Vk}YB)R/ completed. Sender's account total - 12301. Recipient's final account - 10012
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account C7[ez9?OK to account ]p6^;wH>H completed. Transaction amount  - 6171. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account ,Vk}YB)R/ completed. Transaction amount  - 8845. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account C7[ez9?OK started. Transaction amount - 4028. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account C7[ez9?OK started. Transaction amount - 4028
+04-08-2023 00:46:01.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account {DOjRxZ^* started. Transaction amount - 3900. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account u`E*nqWAc to account C7[ez9?OK completed. Sender's account total - 8273. Recipient's final account - 9677
+04-08-2023 00:46:01.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account {DOjRxZ^* started. Transaction amount - 3900
+04-08-2023 00:46:01.689 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account u`E*nqWAc to account C7[ez9?OK completed. Transaction amount  - 4028. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account {DOjRxZ^* completed. Sender's account total - 11547. Recipient's final account - 6996
+04-08-2023 00:46:01.683 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account C7[ez9?OK started. Transaction amount - 5086
+04-08-2023 00:46:01.690 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account hGm`<le<I started. Transaction amount - 2638. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account {DOjRxZ^* completed. Transaction amount  - 3900. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.690 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account hGm`<le<I started. Transaction amount - 2638
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account >UaXU\JIF started. Transaction amount - 1129. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.690 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account hGm`<le<I completed. Sender's account total - 16248. Recipient's final account - 11473
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account >UaXU\JIF started. Transaction amount - 1129
+04-08-2023 00:46:01.690 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account hGm`<le<I completed. Transaction amount  - 2638. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Q5h6+:6.V to account >UaXU\JIF completed. Sender's account total - 15119. Recipient's final account - 7590
+04-08-2023 00:46:01.690 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account u`E*nqWAc started. Transaction amount - 959. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Q5h6+:6.V to account >UaXU\JIF completed. Transaction amount  - 1129. In the thread - pool-1-thread-2
+04-08-2023 00:46:01.690 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account >UaXU\JIF to account C7[ez9?OK completed. Sender's account total - 6461. Recipient's final account - 14763
+04-08-2023 00:46:01.691 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account u`E*nqWAc started. Transaction amount - 959
+04-08-2023 00:46:01.691 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account >UaXU\JIF to account C7[ez9?OK completed. Transaction amount  - 5086. In the thread - pool-1-thread-1
+04-08-2023 00:46:01.691 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1SW,pO!KZ to account u`E*nqWAc completed. Sender's account total - 11817. Recipient's final account - 9232
+04-08-2023 00:46:01.692 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1SW,pO!KZ to account u`E*nqWAc completed. Transaction amount  - 959. In the thread - pool-1-thread-3
+04-08-2023 00:46:01.705 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: 1SW,pO!KZ total money= 11817
+, Account id: Q5h6+:6.V total money= 15119
+, Account id: {DOjRxZ^* total money= 6996
+, Account id: u`E*nqWAc total money= 9232
+, Account id: $e}V./RkG total money= 5337
+, Account id: ]p6^;wH>H total money= 7661
+, Account id: hGm`<le<I total money= 11473
+, Account id: >UaXU\JIF total money= 7590
+, Account id: C7[ez9?OK total money= 14763
+, Account id: ,Vk}YB)R/ total money= 10012
+]
+04-08-2023 00:46:01.705 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+04-08-2023 00:48:11.773 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+04-08-2023 00:48:11.806 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account RP},=ISGn started. Transaction amount - 6098. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.815 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p started. Transaction amount - 5197. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.826 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p started. Transaction amount - 232. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.844 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p started. Transaction amount - 232
+04-08-2023 00:48:11.844 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p started. Transaction amount - 5197
+04-08-2023 00:48:11.844 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]\+xT8?6I to account RP},=ISGn started. Transaction amount - 6098
+04-08-2023 00:48:11.845 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p completed. Sender's account total - 9768. Recipient's final account - 10232
+04-08-2023 00:48:11.849 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]\+xT8?6I to account RP},=ISGn completed. Sender's account total - 3902. Recipient's final account - 16098
+04-08-2023 00:48:11.849 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p completed. Sender's account total - 4571. Recipient's final account - 15429
+04-08-2023 00:48:11.852 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p completed. Transaction amount  - 5197. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.855 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account \Kg4n4jeF started. Transaction amount - 7875. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.851 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account RP},=ISGn completed. Transaction amount  - 6098. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.855 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account |+u7Qk~|p completed. Transaction amount  - 232. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.855 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account \Kg4n4jeF started. Transaction amount - 7875
+04-08-2023 00:48:11.855 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh started. Transaction amount - 4841. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.855 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account mqo9tc|_N started. Transaction amount - 8304. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.855 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account \Kg4n4jeF completed. Sender's account total - 8223. Recipient's final account - 17875
+04-08-2023 00:48:11.856 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh started. Transaction amount - 4841
+04-08-2023 00:48:11.857 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account \Kg4n4jeF completed. Transaction amount  - 7875. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.856 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account mqo9tc|_N started. Transaction amount - 8304
+04-08-2023 00:48:11.857 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh completed. Sender's account total - 5159. Recipient's final account - 9412
+04-08-2023 00:48:11.857 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account yx:o;*qQ( started. Transaction amount - 4689. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.859 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account yx:o;*qQ( started. Transaction amount - 4689
+04-08-2023 00:48:11.860 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account RP},=ISGn
+04-08-2023 00:48:11.858 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh completed. Transaction amount  - 4841. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.874 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account yx:o;*qQ( completed. Sender's account total - 3534. Recipient's final account - 9848
+04-08-2023 00:48:11.876 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account yx:o;*qQ( completed. Transaction amount  - 4689. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.877 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ started. Transaction amount - 3814. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.879 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ started. Transaction amount - 3814
+04-08-2023 00:48:11.879 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ completed. Sender's account total - 88. Recipient's final account - 13814
+04-08-2023 00:48:11.879 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ completed. Transaction amount  - 3814. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.865 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account |+u7Qk~|p started. Transaction amount - 8956. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.881 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account |+u7Qk~|p started. Transaction amount - 8956
+04-08-2023 00:48:11.881 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account |+u7Qk~|p completed. Sender's account total - 1044. Recipient's final account - 24385
+04-08-2023 00:48:11.881 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account |+u7Qk~|p completed. Transaction amount  - 8956. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.881 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ started. Transaction amount - 1801. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.880 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &I3VTB/vZ to account B1RN|1TPh started. Transaction amount - 6662. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.881 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ started. Transaction amount - 1801
+04-08-2023 00:48:11.882 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &I3VTB/vZ to account B1RN|1TPh started. Transaction amount - 6662
+04-08-2023 00:48:11.887 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account ]\+xT8?6I
+04-08-2023 00:48:11.890 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &I3VTB/vZ to account B1RN|1TPh completed. Sender's account total - 7152. Recipient's final account - 16074
+04-08-2023 00:48:11.891 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &I3VTB/vZ to account B1RN|1TPh completed. Transaction amount  - 6662. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.891 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account \Kg4n4jeF to account mqo9tc|_N started. Transaction amount - 9912. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.892 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account \Kg4n4jeF to account mqo9tc|_N started. Transaction amount - 9912
+04-08-2023 00:48:11.893 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account \Kg4n4jeF to account mqo9tc|_N completed. Sender's account total - 7963. Recipient's final account - 19912
+04-08-2023 00:48:11.895 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account \Kg4n4jeF to account mqo9tc|_N completed. Transaction amount  - 9912. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.895 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I started. Transaction amount - 782. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.899 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I started. Transaction amount - 782
+04-08-2023 00:48:11.900 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I completed. Sender's account total - 9218. Recipient's final account - 870
+04-08-2023 00:48:11.901 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I completed. Transaction amount  - 782. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.902 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account |+u7Qk~|p started. Transaction amount - 2026. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.903 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account |+u7Qk~|p started. Transaction amount - 2026
+04-08-2023 00:48:11.907 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]\+xT8?6I to account &I3VTB/vZ canceled. Transaction amount  - 1801. Not enough funds on the sender's account
+04-08-2023 00:48:11.908 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account |+u7Qk~|p completed. Sender's account total - 17886. Recipient's final account - 26411
+04-08-2023 00:48:11.910 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account |+u7Qk~|p completed. Transaction amount  - 2026. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.909 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account mqo9tc|_N canceled. Transaction amount  - 8304. Not enough funds on the sender's account
+04-08-2023 00:48:11.909 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account RP},=ISGn started. Transaction amount - 1950. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.917 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account \Kg4n4jeF to account IqV&3ScSx started. Transaction amount - 44. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.919 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account mqo9tc|_N started. Transaction amount - 7948. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.919 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account RP},=ISGn started. Transaction amount - 1950
+04-08-2023 00:48:11.919 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account \Kg4n4jeF to account IqV&3ScSx started. Transaction amount - 44
+04-08-2023 00:48:11.919 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account RP},=ISGn completed. Sender's account total - 15936. Recipient's final account - 5484
+04-08-2023 00:48:11.919 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account mqo9tc|_N started. Transaction amount - 7948
+04-08-2023 00:48:11.920 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account RP},=ISGn completed. Transaction amount  - 1950. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.921 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account mqo9tc|_N completed. Sender's account total - 8126. Recipient's final account - 23884
+04-08-2023 00:48:11.923 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account mqo9tc|_N completed. Transaction amount  - 7948. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.920 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account \Kg4n4jeF to account IqV&3ScSx completed. Sender's account total - 7919. Recipient's final account - 9262
+04-08-2023 00:48:11.924 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account \Kg4n4jeF to account IqV&3ScSx completed. Transaction amount  - 44. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.925 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I started. Transaction amount - 7248. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.926 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I started. Transaction amount - 7248
+04-08-2023 00:48:11.927 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I completed. Sender's account total - 2014. Recipient's final account - 8118
+04-08-2023 00:48:11.927 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IqV&3ScSx to account ]\+xT8?6I completed. Transaction amount  - 7248. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.922 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh started. Transaction amount - 8921. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.928 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account qW~a|b8!6 started. Transaction amount - 6706. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.931 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account qW~a|b8!6 started. Transaction amount - 6706
+04-08-2023 00:48:11.929 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh started. Transaction amount - 8921
+04-08-2023 00:48:11.933 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh completed. Sender's account total - 927. Recipient's final account - 10341
+04-08-2023 00:48:11.933 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yx:o;*qQ( to account B1RN|1TPh completed. Transaction amount  - 8921. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.935 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account mqo9tc|_N started. Transaction amount - 9759. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.936 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account mqo9tc|_N started. Transaction amount - 9759
+04-08-2023 00:48:11.937 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account mqo9tc|_N completed. Sender's account total - 582. Recipient's final account - 33643
+04-08-2023 00:48:11.937 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account mqo9tc|_N completed. Transaction amount  - 9759. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.929 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account |+u7Qk~|p to account RP},=ISGn started. Transaction amount - 6854. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.938 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &I3VTB/vZ to account \Kg4n4jeF started. Transaction amount - 696. In the thread - pool-1-thread-2
+04-08-2023 00:48:11.932 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account qW~a|b8!6 completed. Sender's account total - 1420. Recipient's final account - 7750
+04-08-2023 00:48:11.940 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &I3VTB/vZ to account \Kg4n4jeF started. Transaction amount - 696
+04-08-2023 00:48:11.939 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account |+u7Qk~|p to account RP},=ISGn started. Transaction amount - 6854
+04-08-2023 00:48:11.945 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account |+u7Qk~|p to account RP},=ISGn completed. Sender's account total - 19557. Recipient's final account - 12338
+04-08-2023 00:48:11.945 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account |+u7Qk~|p to account RP},=ISGn completed. Transaction amount  - 6854. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.940 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account qW~a|b8!6 completed. Transaction amount  - 6706. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.970 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account B1RN|1TPh started. Transaction amount - 5211. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.978 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account B1RN|1TPh started. Transaction amount - 5211
+04-08-2023 00:48:11.979 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account B1RN|1TPh completed. Sender's account total - 2539. Recipient's final account - 5793
+04-08-2023 00:48:11.949 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account |+u7Qk~|p started. Transaction amount - 1193. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.982 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account |+u7Qk~|p started. Transaction amount - 1193
+04-08-2023 00:48:11.982 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account |+u7Qk~|p completed. Sender's account total - 11145. Recipient's final account - 20750
+04-08-2023 00:48:11.982 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account |+u7Qk~|p completed. Transaction amount  - 1193. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.981 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account B1RN|1TPh completed. Transaction amount  - 5211. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.985 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account &I3VTB/vZ started. Transaction amount - 6903. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.986 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account &I3VTB/vZ started. Transaction amount - 6903
+04-08-2023 00:48:11.986 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account &I3VTB/vZ completed. Sender's account total - 26740. Recipient's final account - 13359
+04-08-2023 00:48:11.989 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account &I3VTB/vZ completed. Transaction amount  - 6903. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.991 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account ]\+xT8?6I started. Transaction amount - 1304. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.992 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account ]\+xT8?6I started. Transaction amount - 1304
+04-08-2023 00:48:11.994 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account qW~a|b8!6 to account ]\+xT8?6I completed. Sender's account total - 1235. Recipient's final account - 9422
+04-08-2023 00:48:11.983 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account IqV&3ScSx started. Transaction amount - 7410. In the thread - pool-1-thread-1
+04-08-2023 00:48:11.996 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account qW~a|b8!6 to account ]\+xT8?6I completed. Transaction amount  - 1304. In the thread - pool-1-thread-3
+04-08-2023 00:48:11.940 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &I3VTB/vZ to account \Kg4n4jeF completed. Sender's account total - 6456. Recipient's final account - 8615
+04-08-2023 00:48:12.023 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &I3VTB/vZ to account \Kg4n4jeF completed. Transaction amount  - 696. In the thread - pool-1-thread-2
+04-08-2023 00:48:12.023 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account &I3VTB/vZ started. Transaction amount - 8720. In the thread - pool-1-thread-2
+04-08-2023 00:48:12.024 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account B1RN|1TPh to account &I3VTB/vZ started. Transaction amount - 8720
+04-08-2023 00:48:12.023 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account IqV&3ScSx started. Transaction amount - 7410
+04-08-2023 00:48:12.025 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account mqo9tc|_N to account IqV&3ScSx completed. Sender's account total - 19330. Recipient's final account - 9424
+04-08-2023 00:48:12.025 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account mqo9tc|_N to account IqV&3ScSx completed. Transaction amount  - 7410. In the thread - pool-1-thread-1
+04-08-2023 00:48:12.029 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account yx:o;*qQ( started. Transaction amount - 5192. In the thread - pool-1-thread-1
+04-08-2023 00:48:12.029 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account B1RN|1TPh
+04-08-2023 00:48:12.029 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account yx:o;*qQ( started. Transaction amount - 5192
+04-08-2023 00:48:12.030 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RP},=ISGn to account yx:o;*qQ( completed. Sender's account total - 5953. Recipient's final account - 6119
+04-08-2023 00:48:12.030 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account B1RN|1TPh to account &I3VTB/vZ canceled. Transaction amount  - 8720. Not enough funds on the sender's account
+04-08-2023 00:48:12.030 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RP},=ISGn to account yx:o;*qQ( completed. Transaction amount  - 5192. In the thread - pool-1-thread-1
+04-08-2023 00:48:12.056 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: |+u7Qk~|p | total money: 20750
+, Account id: B1RN|1TPh | total money: 5793
+, Account id: IqV&3ScSx | total money: 9424
+, Account id: RP},=ISGn | total money: 5953
+, Account id: mqo9tc|_N | total money: 19330
+, Account id: yx:o;*qQ( | total money: 6119
+, Account id: &I3VTB/vZ | total money: 13359
+, Account id: ]\+xT8?6I | total money: 9422
+, Account id: \Kg4n4jeF | total money: 8615
+, Account id: qW~a|b8!6 | total money: 1235
+]
+04-08-2023 00:48:12.062 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+04-08-2023 00:48:35.036 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+04-08-2023 00:48:35.065 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account W1~nzK]-F to account Aqq'Im*(X started. Transaction amount - 2526. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.065 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV started. Transaction amount - 8664. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.065 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account 4K>IuNNBP started. Transaction amount - 9693. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.083 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 5v.{k?+>: to account 4K>IuNNBP started. Transaction amount - 9693
+04-08-2023 00:48:35.084 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV started. Transaction amount - 8664
+04-08-2023 00:48:35.085 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV completed. Sender's account total - 1336. Recipient's final account - 18664
+04-08-2023 00:48:35.085 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV completed. Transaction amount  - 8664. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.086 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 8769. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.086 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 8769
+04-08-2023 00:48:35.084 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 5v.{k?+>: to account 4K>IuNNBP completed. Sender's account total - 307. Recipient's final account - 19693
+04-08-2023 00:48:35.086 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F completed. Sender's account total - 1231. Recipient's final account - 18769
+04-08-2023 00:48:35.087 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F completed. Transaction amount  - 8769. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.083 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account W1~nzK]-F to account Aqq'Im*(X started. Transaction amount - 2526
+04-08-2023 00:48:35.087 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account 4K>IuNNBP completed. Transaction amount  - 9693. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.087 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV started. Transaction amount - 9769. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.087 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account W1~nzK]-F to account Aqq'Im*(X completed. Sender's account total - 16243. Recipient's final account - 12526
+04-08-2023 00:48:35.087 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account Aqq'Im*(X started. Transaction amount - 6073. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.088 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account W1~nzK]-F to account Aqq'Im*(X completed. Transaction amount  - 2526. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.088 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV started. Transaction amount - 9769
+04-08-2023 00:48:35.088 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account Aqq'Im*(X started. Transaction amount - 6073
+04-08-2023 00:48:35.089 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account .M4yJRISk to account dJ'K0Vt/# started. Transaction amount - 1878. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.089 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account !%4|MKI%$
+04-08-2023 00:48:35.089 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account dJ'K0Vt/#
+04-08-2023 00:48:35.090 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account .M4yJRISk to account dJ'K0Vt/# started. Transaction amount - 1878
+04-08-2023 00:48:35.092 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account .M4yJRISk to account dJ'K0Vt/# completed. Sender's account total - 8122. Recipient's final account - 3214
+04-08-2023 00:48:35.093 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account .M4yJRISk to account dJ'K0Vt/# completed. Transaction amount  - 1878. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.093 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account sY)@h7l}V started. Transaction amount - 265. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.094 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account sY)@h7l}V started. Transaction amount - 265
+04-08-2023 00:48:35.094 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account sY)@h7l}V completed. Sender's account total - 18399. Recipient's final account - 10265
+04-08-2023 00:48:35.094 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account sY)@h7l}V completed. Transaction amount  - 265. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.095 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Aqq'Im*(X to account 5v.{k?+>: started. Transaction amount - 8840. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.095 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Aqq'Im*(X to account 5v.{k?+>: started. Transaction amount - 8840
+04-08-2023 00:48:35.095 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account Aqq'Im*(X to account 5v.{k?+>: completed. Sender's account total - 3686. Recipient's final account - 9147
+04-08-2023 00:48:35.095 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account Aqq'Im*(X to account 5v.{k?+>: completed. Transaction amount  - 8840. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.097 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account !%4|MKI%$ started. Transaction amount - 1493. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.099 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account !%4|MKI%$ started. Transaction amount - 1493
+04-08-2023 00:48:35.100 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account !%4|MKI%$ completed. Sender's account total - 1721. Recipient's final account - 2724
+04-08-2023 00:48:35.100 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account !%4|MKI%$ completed. Transaction amount  - 1493. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.100 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account Aqq'Im*(X started. Transaction amount - 9421. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.100 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account Aqq'Im*(X started. Transaction amount - 9421
+04-08-2023 00:48:35.101 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account dJ'K0Vt/#
+04-08-2023 00:48:35.112 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account %qrUyi~AV canceled. Transaction amount  - 9769. Not enough funds on the sender's account
+04-08-2023 00:48:35.113 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account .M4yJRISk started. Transaction amount - 3666. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.114 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account .M4yJRISk started. Transaction amount - 3666
+04-08-2023 00:48:35.115 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account dJ'K0Vt/#
+04-08-2023 00:48:35.116 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account .M4yJRISk canceled. Transaction amount  - 3666. Not enough funds on the sender's account
+04-08-2023 00:48:35.117 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account aKaDu1XC` started. Transaction amount - 5034. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.122 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 5v.{k?+>: to account aKaDu1XC` started. Transaction amount - 5034
+04-08-2023 00:48:35.122 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 5v.{k?+>: to account aKaDu1XC` completed. Sender's account total - 4113. Recipient's final account - 15034
+04-08-2023 00:48:35.122 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account Aqq'Im*(X canceled. Transaction amount  - 9421. Not enough funds on the sender's account
+04-08-2023 00:48:35.122 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account aKaDu1XC` completed. Transaction amount  - 5034. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.125 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account sY)@h7l}V started. Transaction amount - 315. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.126 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account sY)@h7l}V started. Transaction amount - 315
+04-08-2023 00:48:35.126 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account sY)@h7l}V completed. Sender's account total - 18084. Recipient's final account - 10580
+04-08-2023 00:48:35.126 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account sY)@h7l}V completed. Transaction amount  - 315. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.122 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account Aqq'Im*(X canceled. Transaction amount  - 6073. Not enough funds on the sender's account
+04-08-2023 00:48:35.126 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 3072. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.128 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account %qrUyi~AV started. Transaction amount - 6394. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.136 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 5v.{k?+>: to account %qrUyi~AV started. Transaction amount - 6394
+04-08-2023 00:48:35.127 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account W1~nzK]-F started. Transaction amount - 294. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.132 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 3072
+04-08-2023 00:48:35.137 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account !%4|MKI%$
+04-08-2023 00:48:35.137 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F canceled. Transaction amount  - 3072. Not enough funds on the sender's account
+04-08-2023 00:48:35.139 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account .M4yJRISk to account sY)@h7l}V started. Transaction amount - 3677. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.136 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account W1~nzK]-F started. Transaction amount - 294
+04-08-2023 00:48:35.139 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account .M4yJRISk to account sY)@h7l}V started. Transaction amount - 3677
+04-08-2023 00:48:35.139 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account W1~nzK]-F completed. Sender's account total - 17790. Recipient's final account - 16537
+04-08-2023 00:48:35.139 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account .M4yJRISk to account sY)@h7l}V completed. Sender's account total - 4445. Recipient's final account - 14257
+04-08-2023 00:48:35.139 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account W1~nzK]-F completed. Transaction amount  - 294. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.139 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account .M4yJRISk to account sY)@h7l}V completed. Transaction amount  - 3677. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.140 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account sY)@h7l}V to account %qrUyi~AV started. Transaction amount - 7756. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.140 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account sY)@h7l}V to account %qrUyi~AV started. Transaction amount - 7756
+04-08-2023 00:48:35.140 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account sY)@h7l}V to account %qrUyi~AV completed. Sender's account total - 6501. Recipient's final account - 25546
+04-08-2023 00:48:35.140 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account aKaDu1XC` started. Transaction amount - 3571. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.140 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account sY)@h7l}V to account %qrUyi~AV completed. Transaction amount  - 7756. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.141 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account .M4yJRISk started. Transaction amount - 1755. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.141 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account .M4yJRISk started. Transaction amount - 1755
+04-08-2023 00:48:35.140 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dJ'K0Vt/# to account aKaDu1XC` started. Transaction amount - 3571
+04-08-2023 00:48:35.141 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account dJ'K0Vt/#
+04-08-2023 00:48:35.141 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account .M4yJRISk completed. Sender's account total - 23791. Recipient's final account - 6200
+04-08-2023 00:48:35.141 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dJ'K0Vt/# to account aKaDu1XC` canceled. Transaction amount  - 3571. Not enough funds on the sender's account
+04-08-2023 00:48:35.141 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 5v.{k?+>:
+04-08-2023 00:48:35.142 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 5v.{k?+>: to account %qrUyi~AV canceled. Transaction amount  - 6394. Not enough funds on the sender's account
+04-08-2023 00:48:35.142 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account aKaDu1XC` to account W1~nzK]-F started. Transaction amount - 4936. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.143 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account aKaDu1XC` to account W1~nzK]-F started. Transaction amount - 4936
+04-08-2023 00:48:35.142 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account W1~nzK]-F to account .M4yJRISk started. Transaction amount - 9787. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.143 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account aKaDu1XC` to account W1~nzK]-F completed. Sender's account total - 10098. Recipient's final account - 21473
+04-08-2023 00:48:35.143 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account .M4yJRISk completed. Transaction amount  - 1755. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.143 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account W1~nzK]-F to account .M4yJRISk started. Transaction amount - 9787
+04-08-2023 00:48:35.143 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account aKaDu1XC` to account W1~nzK]-F completed. Transaction amount  - 4936. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.143 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account Aqq'Im*(X started. Transaction amount - 8229. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.144 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account W1~nzK]-F to account .M4yJRISk completed. Sender's account total - 11686. Recipient's final account - 15987
+04-08-2023 00:48:35.144 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account W1~nzK]-F to account .M4yJRISk completed. Transaction amount  - 9787. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.144 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP started. Transaction amount - 7061. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.145 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP started. Transaction amount - 7061
+04-08-2023 00:48:35.145 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP completed. Sender's account total - 16730. Recipient's final account - 26754
+04-08-2023 00:48:35.144 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account Aqq'Im*(X started. Transaction amount - 8229
+04-08-2023 00:48:35.144 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP started. Transaction amount - 1287. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.145 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP started. Transaction amount - 1287
+04-08-2023 00:48:35.145 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP completed. Transaction amount  - 7061. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.145 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account Aqq'Im*(X completed. Sender's account total - 8501. Recipient's final account - 11915
+04-08-2023 00:48:35.146 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account Aqq'Im*(X completed. Transaction amount  - 8229. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.146 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account aKaDu1XC` to account !%4|MKI%$ started. Transaction amount - 5154. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.146 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account .M4yJRISk started. Transaction amount - 6237. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.146 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account aKaDu1XC` to account !%4|MKI%$ started. Transaction amount - 5154
+04-08-2023 00:48:35.146 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP completed. Sender's account total - 7214. Recipient's final account - 28041
+04-08-2023 00:48:35.146 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account .M4yJRISk started. Transaction amount - 6237
+04-08-2023 00:48:35.147 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account aKaDu1XC` to account !%4|MKI%$ completed. Sender's account total - 4944. Recipient's final account - 7878
+04-08-2023 00:48:35.147 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %qrUyi~AV to account 4K>IuNNBP completed. Transaction amount  - 1287. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.147 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account .M4yJRISk completed. Sender's account total - 1641. Recipient's final account - 22224
+04-08-2023 00:48:35.147 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account aKaDu1XC` to account !%4|MKI%$ completed. Transaction amount  - 5154. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.147 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 665. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.147 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account .M4yJRISk completed. Transaction amount  - 6237. In the thread - pool-1-thread-1
+04-08-2023 00:48:35.147 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account sY)@h7l}V to account W1~nzK]-F started. Transaction amount - 1577. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.147 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F started. Transaction amount - 665
+04-08-2023 00:48:35.148 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account sY)@h7l}V to account W1~nzK]-F started. Transaction amount - 1577
+04-08-2023 00:48:35.149 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F completed. Sender's account total - 976. Recipient's final account - 12351
+04-08-2023 00:48:35.149 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account !%4|MKI%$ to account W1~nzK]-F completed. Transaction amount  - 665. In the thread - pool-1-thread-3
+04-08-2023 00:48:35.149 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account sY)@h7l}V to account W1~nzK]-F completed. Sender's account total - 4924. Recipient's final account - 13928
+04-08-2023 00:48:35.149 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account sY)@h7l}V to account W1~nzK]-F completed. Transaction amount  - 1577. In the thread - pool-1-thread-2
+04-08-2023 00:48:35.160 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: sY)@h7l}V || total money: 4924
+, Account id: W1~nzK]-F || total money: 13928
+, Account id: 5v.{k?+>: || total money: 4113
+, Account id: %qrUyi~AV || total money: 7214
+, Account id: 4K>IuNNBP || total money: 28041
+, Account id: !%4|MKI%$ || total money: 976
+, Account id: aKaDu1XC` || total money: 4944
+, Account id: dJ'K0Vt/# || total money: 1721
+, Account id: .M4yJRISk || total money: 22224
+, Account id: Aqq'Im*(X || total money: 11915
+]
+04-08-2023 00:48:35.161 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+04-08-2023 00:51:39.596 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+04-08-2023 00:51:39.641 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account "y{:`\is^ started. Transaction amount - 4137. In the thread - pool-1-thread-1
+04-08-2023 00:51:39.641 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account "aG5-=|Z? started. Transaction amount - 9465. In the thread - pool-1-thread-3
+04-08-2023 00:51:39.641 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account ^%kjYFKki started. Transaction amount - 3584. In the thread - pool-1-thread-2
+04-08-2023 00:51:39.712 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 7w!m8Mw-$ to account ^%kjYFKki started. Transaction amount - 3584
+04-08-2023 00:51:39.717 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 7w!m8Mw-$ to account "aG5-=|Z? started. Transaction amount - 9465
+04-08-2023 00:51:39.716 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 7w!m8Mw-$ to account "y{:`\is^ started. Transaction amount - 4137
+04-08-2023 00:51:42.681 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 7w!m8Mw-$ to account ^%kjYFKki completed. Sender's account total - 6416. Recipient's final account - 13584
+04-08-2023 00:51:42.682 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account ^%kjYFKki completed. Transaction amount  - 3584. In the thread - pool-1-thread-2
+04-08-2023 00:51:42.683 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account "y{:`\is^ started. Transaction amount - 2170. In the thread - pool-1-thread-2
+04-08-2023 00:51:42.683 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account "y{:`\is^ started. Transaction amount - 2170
+04-08-2023 00:51:44.156 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 7w!m8Mw-$
+04-08-2023 00:51:44.170 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account "aG5-=|Z? canceled. Transaction amount  - 9465. Not enough funds on the sender's account
+04-08-2023 00:51:44.171 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account be&j_"*9Y to account w]pXtiD5K started. Transaction amount - 2386. In the thread - pool-1-thread-3
+04-08-2023 00:51:44.171 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account be&j_"*9Y to account w]pXtiD5K started. Transaction amount - 2386
+04-08-2023 00:51:46.585 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account be&j_"*9Y to account w]pXtiD5K completed. Sender's account total - 7614. Recipient's final account - 12386
+04-08-2023 00:51:46.586 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account be&j_"*9Y to account w]pXtiD5K completed. Transaction amount  - 2386. In the thread - pool-1-thread-3
+04-08-2023 00:51:46.587 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "aG5-=|Z? to account yh.*5:gm* started. Transaction amount - 46. In the thread - pool-1-thread-3
+04-08-2023 00:51:46.587 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "aG5-=|Z? to account yh.*5:gm* started. Transaction amount - 46
+04-08-2023 00:51:46.604 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 7w!m8Mw-$ to account "y{:`\is^ completed. Sender's account total - 2279. Recipient's final account - 14137
+04-08-2023 00:51:46.604 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 7w!m8Mw-$ to account "y{:`\is^ completed. Transaction amount  - 4137. In the thread - pool-1-thread-1
+04-08-2023 00:51:46.605 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account "aG5-=|Z? started. Transaction amount - 240. In the thread - pool-1-thread-1
+04-08-2023 00:51:46.605 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account w]pXtiD5K to account "aG5-=|Z? started. Transaction amount - 240
+04-08-2023 00:51:49.203 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "aG5-=|Z? to account yh.*5:gm* completed. Sender's account total - 9954. Recipient's final account - 10046
+04-08-2023 00:51:49.203 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "aG5-=|Z? to account yh.*5:gm* completed. Transaction amount  - 46. In the thread - pool-1-thread-3
+04-08-2023 00:51:49.204 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account %G[q9VL"( started. Transaction amount - 3156. In the thread - pool-1-thread-3
+04-08-2023 00:51:49.204 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account %G[q9VL"( started. Transaction amount - 3156
+04-08-2023 00:51:49.902 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account "y{:`\is^ completed. Sender's account total - 7830. Recipient's final account - 16307
+04-08-2023 00:51:49.903 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account "y{:`\is^ completed. Transaction amount  - 2170. In the thread - pool-1-thread-2
+04-08-2023 00:51:49.903 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account "aG5-=|Z? started. Transaction amount - 7341. In the thread - pool-1-thread-2
+04-08-2023 00:51:49.903 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account "aG5-=|Z? started. Transaction amount - 7341
+04-08-2023 00:51:51.634 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account w]pXtiD5K to account "aG5-=|Z? completed. Sender's account total - 12146. Recipient's final account - 10194
+04-08-2023 00:51:51.635 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account "aG5-=|Z? completed. Transaction amount  - 240. In the thread - pool-1-thread-1
+04-08-2023 00:51:51.635 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account ^%kjYFKki started. Transaction amount - 3439. In the thread - pool-1-thread-1
+04-08-2023 00:51:51.635 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account ^%kjYFKki started. Transaction amount - 3439
+04-08-2023 00:51:52.455 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account %G[q9VL"( completed. Sender's account total - 10428. Recipient's final account - 13156
+04-08-2023 00:51:52.455 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account %G[q9VL"( completed. Transaction amount  - 3156. In the thread - pool-1-thread-3
+04-08-2023 00:51:52.456 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account %G[q9VL"( started. Transaction amount - 9701. In the thread - pool-1-thread-3
+04-08-2023 00:51:52.456 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account w]pXtiD5K to account %G[q9VL"( started. Transaction amount - 9701
+04-08-2023 00:51:55.729 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account w]pXtiD5K to account %G[q9VL"( completed. Sender's account total - 2445. Recipient's final account - 22857
+04-08-2023 00:51:55.729 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account %G[q9VL"( completed. Transaction amount  - 9701. In the thread - pool-1-thread-3
+04-08-2023 00:51:55.730 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account w]pXtiD5K started. Transaction amount - 7909. In the thread - pool-1-thread-3
+04-08-2023 00:51:55.730 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account w]pXtiD5K started. Transaction amount - 7909
+04-08-2023 00:51:55.887 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account "aG5-=|Z? completed. Sender's account total - 3087. Recipient's final account - 17535
+04-08-2023 00:51:55.888 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account "aG5-=|Z? completed. Transaction amount  - 7341. In the thread - pool-1-thread-2
+04-08-2023 00:51:55.889 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account 7w!m8Mw-$ started. Transaction amount - 2094. In the thread - pool-1-thread-2
+04-08-2023 00:51:55.890 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account 7w!m8Mw-$ started. Transaction amount - 2094
+04-08-2023 00:51:59.265 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account ^%kjYFKki completed. Sender's account total - 4391. Recipient's final account - 6526
+04-08-2023 00:51:59.265 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account ^%kjYFKki completed. Transaction amount  - 3439. In the thread - pool-1-thread-1
+04-08-2023 00:51:59.266 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account "aG5-=|Z? started. Transaction amount - 6073. In the thread - pool-1-thread-1
+04-08-2023 00:51:59.266 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account "aG5-=|Z? started. Transaction amount - 6073
+04-08-2023 00:52:00.887 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 0GY(XPju5
+04-08-2023 00:52:00.888 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account w]pXtiD5K canceled. Transaction amount  - 7909. Not enough funds on the sender's account
+04-08-2023 00:52:00.888 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account be&j_"*9Y started. Transaction amount - 3397. In the thread - pool-1-thread-3
+04-08-2023 00:52:00.888 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account be&j_"*9Y started. Transaction amount - 3397
+04-08-2023 00:52:01.796 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account 7w!m8Mw-$ completed. Sender's account total - 4432. Recipient's final account - 4373
+04-08-2023 00:52:01.796 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account 7w!m8Mw-$ completed. Transaction amount  - 2094. In the thread - pool-1-thread-2
+04-08-2023 00:52:01.797 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account w]pXtiD5K started. Transaction amount - 243. In the thread - pool-1-thread-2
+04-08-2023 00:52:01.797 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account w]pXtiD5K started. Transaction amount - 243
+04-08-2023 00:52:01.954 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account "aG5-=|Z? completed. Sender's account total - 16784. Recipient's final account - 23608
+04-08-2023 00:52:01.954 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account "aG5-=|Z? completed. Transaction amount  - 6073. In the thread - pool-1-thread-1
+04-08-2023 00:52:01.955 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( started. Transaction amount - 1828. In the thread - pool-1-thread-1
+04-08-2023 00:52:01.955 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( started. Transaction amount - 1828
+04-08-2023 00:52:03.755 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account be&j_"*9Y completed. Sender's account total - 994. Recipient's final account - 11011
+04-08-2023 00:52:03.755 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account be&j_"*9Y completed. Transaction amount  - 3397. In the thread - pool-1-thread-3
+04-08-2023 00:52:03.755 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account w]pXtiD5K started. Transaction amount - 2483. In the thread - pool-1-thread-3
+04-08-2023 00:52:03.756 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account w]pXtiD5K started. Transaction amount - 2483
+04-08-2023 00:52:05.570 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account w]pXtiD5K completed. Sender's account total - 16541. Recipient's final account - 2688
+04-08-2023 00:52:05.570 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account w]pXtiD5K completed. Transaction amount  - 243. In the thread - pool-1-thread-2
+04-08-2023 00:52:05.571 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "y{:`\is^ to account 7w!m8Mw-$ started. Transaction amount - 7720. In the thread - pool-1-thread-2
+04-08-2023 00:52:05.571 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "y{:`\is^ to account 7w!m8Mw-$ started. Transaction amount - 7720
+04-08-2023 00:52:06.847 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 0GY(XPju5
+04-08-2023 00:52:06.847 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( canceled. Transaction amount  - 1828. Not enough funds on the sender's account
+04-08-2023 00:52:06.848 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account yh.*5:gm* started. Transaction amount - 870. In the thread - pool-1-thread-1
+04-08-2023 00:52:06.849 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account yh.*5:gm* started. Transaction amount - 870
+04-08-2023 00:52:08.504 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account w]pXtiD5K completed. Sender's account total - 1949. Recipient's final account - 5171
+04-08-2023 00:52:08.504 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account w]pXtiD5K completed. Transaction amount  - 2483. In the thread - pool-1-thread-3
+04-08-2023 00:52:08.504 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account ^%kjYFKki started. Transaction amount - 6323. In the thread - pool-1-thread-3
+04-08-2023 00:52:08.505 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yh.*5:gm* to account ^%kjYFKki started. Transaction amount - 6323
+04-08-2023 00:52:08.857 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "y{:`\is^ to account 7w!m8Mw-$ completed. Sender's account total - 8587. Recipient's final account - 12093
+04-08-2023 00:52:08.857 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "y{:`\is^ to account 7w!m8Mw-$ completed. Transaction amount  - 7720. In the thread - pool-1-thread-2
+04-08-2023 00:52:08.858 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( started. Transaction amount - 9859. In the thread - pool-1-thread-2
+04-08-2023 00:52:08.858 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( started. Transaction amount - 9859
+04-08-2023 00:52:10.687 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 0GY(XPju5
+04-08-2023 00:52:10.688 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 0GY(XPju5 to account %G[q9VL"( canceled. Transaction amount  - 9859. Not enough funds on the sender's account
+04-08-2023 00:52:10.689 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account nL>L'sQ\c to account ^%kjYFKki started. Transaction amount - 7669. In the thread - pool-1-thread-2
+04-08-2023 00:52:10.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account nL>L'sQ\c to account ^%kjYFKki started. Transaction amount - 7669
+04-08-2023 00:52:11.196 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ^%kjYFKki to account yh.*5:gm* completed. Sender's account total - 1079. Recipient's final account - 10916
+04-08-2023 00:52:11.197 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ^%kjYFKki to account yh.*5:gm* completed. Transaction amount  - 870. In the thread - pool-1-thread-1
+04-08-2023 00:52:11.198 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account w]pXtiD5K started. Transaction amount - 5693. In the thread - pool-1-thread-1
+04-08-2023 00:52:11.198 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yh.*5:gm* to account w]pXtiD5K started. Transaction amount - 5693
+04-08-2023 00:52:14.188 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yh.*5:gm* to account ^%kjYFKki completed. Sender's account total - 4593. Recipient's final account - 7402
+04-08-2023 00:52:14.189 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account ^%kjYFKki completed. Transaction amount  - 6323. In the thread - pool-1-thread-3
+04-08-2023 00:52:14.189 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "y{:`\is^ to account w]pXtiD5K started. Transaction amount - 9525. In the thread - pool-1-thread-3
+04-08-2023 00:52:14.189 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "y{:`\is^ to account w]pXtiD5K started. Transaction amount - 9525
+04-08-2023 00:52:16.126 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account yh.*5:gm*
+04-08-2023 00:52:16.126 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account w]pXtiD5K canceled. Transaction amount  - 5693. Not enough funds on the sender's account
+04-08-2023 00:52:16.127 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account nL>L'sQ\c started. Transaction amount - 5766. In the thread - pool-1-thread-1
+04-08-2023 00:52:16.127 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account w]pXtiD5K to account nL>L'sQ\c started. Transaction amount - 5766
+04-08-2023 00:52:16.811 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account nL>L'sQ\c to account ^%kjYFKki completed. Sender's account total - 2331. Recipient's final account - 15071
+04-08-2023 00:52:16.812 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account nL>L'sQ\c to account ^%kjYFKki completed. Transaction amount  - 7669. In the thread - pool-1-thread-2
+04-08-2023 00:52:16.812 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "aG5-=|Z? to account ^%kjYFKki started. Transaction amount - 8135. In the thread - pool-1-thread-2
+04-08-2023 00:52:16.812 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "aG5-=|Z? to account ^%kjYFKki started. Transaction amount - 8135
+04-08-2023 00:52:17.993 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account "y{:`\is^
+04-08-2023 00:52:17.994 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "y{:`\is^ to account w]pXtiD5K canceled. Transaction amount  - 9525. Not enough funds on the sender's account
+04-08-2023 00:52:17.997 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account nL>L'sQ\c to account w]pXtiD5K started. Transaction amount - 8169. In the thread - pool-1-thread-3
+04-08-2023 00:52:17.997 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account nL>L'sQ\c to account w]pXtiD5K started. Transaction amount - 8169
+04-08-2023 00:52:19.321 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account w]pXtiD5K
+04-08-2023 00:52:19.321 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account w]pXtiD5K to account nL>L'sQ\c canceled. Transaction amount  - 5766. Not enough funds on the sender's account
+04-08-2023 00:52:19.322 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account 7w!m8Mw-$ started. Transaction amount - 4776. In the thread - pool-1-thread-1
+04-08-2023 00:52:19.323 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account 7w!m8Mw-$ started. Transaction amount - 4776
+04-08-2023 00:52:19.659 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account "aG5-=|Z? to account ^%kjYFKki completed. Sender's account total - 15473. Recipient's final account - 23206
+04-08-2023 00:52:19.659 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account "aG5-=|Z? to account ^%kjYFKki completed. Transaction amount  - 8135. In the thread - pool-1-thread-2
+04-08-2023 00:52:19.659 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account ^%kjYFKki started. Transaction amount - 7204. In the thread - pool-1-thread-2
+04-08-2023 00:52:19.659 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account yh.*5:gm* to account ^%kjYFKki started. Transaction amount - 7204
+04-08-2023 00:52:21.168 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account nL>L'sQ\c
+04-08-2023 00:52:21.168 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account nL>L'sQ\c to account w]pXtiD5K canceled. Transaction amount  - 8169. Not enough funds on the sender's account
+04-08-2023 00:52:21.285 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account yh.*5:gm*
+04-08-2023 00:52:21.286 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account yh.*5:gm* to account ^%kjYFKki canceled. Transaction amount  - 7204. Not enough funds on the sender's account
+04-08-2023 00:52:22.982 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account %G[q9VL"( to account 7w!m8Mw-$ completed. Sender's account total - 11765. Recipient's final account - 16869
+04-08-2023 00:52:22.983 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account %G[q9VL"( to account 7w!m8Mw-$ completed. Transaction amount  - 4776. In the thread - pool-1-thread-1
+04-08-2023 00:52:22.992 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: ^%kjYFKki || total money: 23206
+, Account id: 7w!m8Mw-$ || total money: 16869
+, Account id: "y{:`\is^ || total money: 8587
+, Account id: w]pXtiD5K || total money: 5171
+, Account id: be&j_"*9Y || total money: 11011
+, Account id: yh.*5:gm* || total money: 4593
+, Account id: 0GY(XPju5 || total money: 994
+, Account id: "aG5-=|Z? || total money: 15473
+, Account id: %G[q9VL"( || total money: 11765
+, Account id: nL>L'sQ\c || total money: 2331
+]
+04-08-2023 00:52:22.993 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+12-08-2023 13:45:05.056 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+12-08-2023 13:45:05.064 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- started. Transaction amount - 3517. In the thread - pool-1-thread-3
+12-08-2023 13:45:05.064 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account RNIV;F8$p started. Transaction amount - 1666. In the thread - pool-1-thread-2
+12-08-2023 13:45:05.064 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account /*3eTEBO? started. Transaction amount - 7181. In the thread - pool-1-thread-1
+12-08-2023 13:45:05.064 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account /*3eTEBO? started. Transaction amount - 7181
+12-08-2023 13:45:05.064 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account RNIV;F8$p started. Transaction amount - 1666
+12-08-2023 13:45:05.064 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- started. Transaction amount - 3517
+12-08-2023 13:45:07.806 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account RNIV;F8$p completed. Sender's account total - 8334. Recipient's final account - 11666
+12-08-2023 13:45:07.807 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account RNIV;F8$p completed. Transaction amount  - 1666. In the thread - pool-1-thread-2
+12-08-2023 13:45:07.807 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account RNIV;F8$p started. Transaction amount - 6675. In the thread - pool-1-thread-2
+12-08-2023 13:45:07.807 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account RNIV;F8$p started. Transaction amount - 6675
+12-08-2023 13:45:08.056 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account /*3eTEBO? completed. Sender's account total - 2819. Recipient's final account - 17181
+12-08-2023 13:45:08.056 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account /*3eTEBO? completed. Transaction amount  - 7181. In the thread - pool-1-thread-1
+12-08-2023 13:45:08.056 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 8P-fn)RGU to account d]T1]?Z5- started. Transaction amount - 7471. In the thread - pool-1-thread-1
+12-08-2023 13:45:08.056 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 8P-fn)RGU to account d]T1]?Z5- started. Transaction amount - 7471
+12-08-2023 13:45:11.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- completed. Sender's account total - 4817. Recipient's final account - 6336
+12-08-2023 13:45:11.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- completed. Transaction amount  - 3517. In the thread - pool-1-thread-3
+12-08-2023 13:45:11.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 8P-fn)RGU to account }Rqm#LLEk started. Transaction amount - 9597. In the thread - pool-1-thread-3
+12-08-2023 13:45:11.500 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 8P-fn)RGU to account }Rqm#LLEk started. Transaction amount - 9597
+12-08-2023 13:45:13.390 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account R;{<dLUf*
+12-08-2023 13:45:13.390 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account RNIV;F8$p canceled. Transaction amount  - 6675. Not enough funds on the sender's account
+12-08-2023 13:45:13.391 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account 8P-fn)RGU started. Transaction amount - 8470. In the thread - pool-1-thread-2
+12-08-2023 13:45:13.391 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account 8P-fn)RGU started. Transaction amount - 8470
+12-08-2023 13:45:14.340 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 8P-fn)RGU to account d]T1]?Z5- completed. Sender's account total - 2529. Recipient's final account - 13807
+12-08-2023 13:45:14.341 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 8P-fn)RGU to account d]T1]?Z5- completed. Transaction amount  - 7471. In the thread - pool-1-thread-1
+12-08-2023 13:45:14.341 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account ~%%f0L9X% started. Transaction amount - 4069. In the thread - pool-1-thread-1
+12-08-2023 13:45:14.341 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account ~%%f0L9X% started. Transaction amount - 4069
+12-08-2023 13:45:16.164 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 8P-fn)RGU
+12-08-2023 13:45:16.165 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 8P-fn)RGU to account }Rqm#LLEk canceled. Transaction amount  - 9597. Not enough funds on the sender's account
+12-08-2023 13:45:16.165 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account R;{<dLUf* started. Transaction amount - 6019. In the thread - pool-1-thread-3
+12-08-2023 13:45:16.165 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IJl7DeD62 to account R;{<dLUf* started. Transaction amount - 6019
+12-08-2023 13:45:17.256 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account ~%%f0L9X% completed. Sender's account total - 748. Recipient's final account - 14069
+12-08-2023 13:45:17.257 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account ~%%f0L9X% completed. Transaction amount  - 4069. In the thread - pool-1-thread-1
+12-08-2023 13:45:17.257 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account /*3eTEBO? started. Transaction amount - 7750. In the thread - pool-1-thread-1
+12-08-2023 13:45:17.257 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account /*3eTEBO? started. Transaction amount - 7750
+12-08-2023 13:45:19.390 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account 8P-fn)RGU completed. Sender's account total - 1530. Recipient's final account - 10999
+12-08-2023 13:45:19.391 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account 8P-fn)RGU completed. Transaction amount  - 8470. In the thread - pool-1-thread-2
+12-08-2023 13:45:19.391 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d&,(wh5C{ started. Transaction amount - 1311. In the thread - pool-1-thread-2
+12-08-2023 13:45:19.391 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d&,(wh5C{ started. Transaction amount - 1311
+12-08-2023 13:45:20.498 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IJl7DeD62 to account R;{<dLUf* completed. Sender's account total - 3981. Recipient's final account - 6767
+12-08-2023 13:45:20.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account R;{<dLUf* completed. Transaction amount  - 6019. In the thread - pool-1-thread-3
+12-08-2023 13:45:20.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- started. Transaction amount - 48. In the thread - pool-1-thread-3
+12-08-2023 13:45:20.499 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- started. Transaction amount - 48
+12-08-2023 13:45:21.282 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account @l5yTG)uh
+12-08-2023 13:45:21.283 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account /*3eTEBO? canceled. Transaction amount  - 7750. Not enough funds on the sender's account
+12-08-2023 13:45:21.283 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d&,(wh5C{ to account d]T1]?Z5- started. Transaction amount - 1654. In the thread - pool-1-thread-1
+12-08-2023 13:45:21.283 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d&,(wh5C{ to account d]T1]?Z5- started. Transaction amount - 1654
+12-08-2023 13:45:22.908 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- completed. Sender's account total - 14021. Recipient's final account - 13855
+12-08-2023 13:45:22.909 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- completed. Transaction amount  - 48. In the thread - pool-1-thread-3
+12-08-2023 13:45:22.909 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU started. Transaction amount - 2977. In the thread - pool-1-thread-3
+12-08-2023 13:45:22.909 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU started. Transaction amount - 2977
+12-08-2023 13:45:23.674 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d&,(wh5C{ completed. Sender's account total - 5456. Recipient's final account - 11311
+12-08-2023 13:45:23.674 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d&,(wh5C{ completed. Transaction amount  - 1311. In the thread - pool-1-thread-2
+12-08-2023 13:45:23.674 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account ~%%f0L9X% started. Transaction amount - 9475. In the thread - pool-1-thread-2
+12-08-2023 13:45:23.674 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account ~%%f0L9X% started. Transaction amount - 9475
+12-08-2023 13:45:25.783 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU completed. Sender's account total - 10878. Recipient's final account - 13976
+12-08-2023 13:45:25.784 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU completed. Transaction amount  - 2977. In the thread - pool-1-thread-3
+12-08-2023 13:45:25.784 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account R;{<dLUf* started. Transaction amount - 5202. In the thread - pool-1-thread-3
+12-08-2023 13:45:25.784 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account R;{<dLUf* started. Transaction amount - 5202
+12-08-2023 13:45:26.362 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account ~%%f0L9X% completed. Sender's account total - 7706. Recipient's final account - 23496
+12-08-2023 13:45:26.363 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account ~%%f0L9X% completed. Transaction amount  - 9475. In the thread - pool-1-thread-2
+12-08-2023 13:45:26.363 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d&,(wh5C{ to account /*3eTEBO? started. Transaction amount - 6176. In the thread - pool-1-thread-2
+12-08-2023 13:45:26.363 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d&,(wh5C{ to account /*3eTEBO? started. Transaction amount - 6176
+12-08-2023 13:45:26.950 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account @l5yTG)uh
+12-08-2023 13:45:26.951 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account R;{<dLUf* canceled. Transaction amount  - 5202. Not enough funds on the sender's account
+12-08-2023 13:45:26.951 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account RNIV;F8$p started. Transaction amount - 514. In the thread - pool-1-thread-3
+12-08-2023 13:45:26.951 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IJl7DeD62 to account RNIV;F8$p started. Transaction amount - 514
+12-08-2023 13:45:28.443 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d&,(wh5C{ to account d]T1]?Z5- completed. Sender's account total - 9657. Recipient's final account - 12532
+12-08-2023 13:45:28.444 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d&,(wh5C{ to account d]T1]?Z5- completed. Transaction amount  - 1654. In the thread - pool-1-thread-1
+12-08-2023 13:45:28.444 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- started. Transaction amount - 3846. In the thread - pool-1-thread-1
+12-08-2023 13:45:28.444 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- started. Transaction amount - 3846
+12-08-2023 13:45:29.367 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IJl7DeD62 to account RNIV;F8$p completed. Sender's account total - 3467. Recipient's final account - 12180
+12-08-2023 13:45:29.368 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account RNIV;F8$p completed. Transaction amount  - 514. In the thread - pool-1-thread-3
+12-08-2023 13:45:29.368 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account /*3eTEBO? started. Transaction amount - 4679. In the thread - pool-1-thread-3
+12-08-2023 13:45:29.368 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account IJl7DeD62 to account /*3eTEBO? started. Transaction amount - 4679
+12-08-2023 13:45:31.636 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d&,(wh5C{ to account /*3eTEBO? completed. Sender's account total - 3481. Recipient's final account - 13882
+12-08-2023 13:45:31.636 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d&,(wh5C{ to account /*3eTEBO? completed. Transaction amount  - 6176. In the thread - pool-1-thread-2
+12-08-2023 13:45:31.637 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RNIV;F8$p to account R;{<dLUf* started. Transaction amount - 8917. In the thread - pool-1-thread-2
+12-08-2023 13:45:31.637 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RNIV;F8$p to account R;{<dLUf* started. Transaction amount - 8917
+12-08-2023 13:45:31.808 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- completed. Sender's account total - 1610. Recipient's final account - 16378
+12-08-2023 13:45:31.809 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account d]T1]?Z5- completed. Transaction amount  - 3846. In the thread - pool-1-thread-1
+12-08-2023 13:45:31.809 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account }Rqm#LLEk to account 8P-fn)RGU started. Transaction amount - 9153. In the thread - pool-1-thread-1
+12-08-2023 13:45:31.809 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account }Rqm#LLEk to account 8P-fn)RGU started. Transaction amount - 9153
+12-08-2023 13:45:33.390 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account IJl7DeD62
+12-08-2023 13:45:33.391 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account IJl7DeD62 to account /*3eTEBO? canceled. Transaction amount  - 4679. Not enough funds on the sender's account
+12-08-2023 13:45:33.391 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account 8P-fn)RGU started. Transaction amount - 34. In the thread - pool-1-thread-3
+12-08-2023 13:45:33.391 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account 8P-fn)RGU started. Transaction amount - 34
+12-08-2023 13:45:35.044 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account }Rqm#LLEk to account 8P-fn)RGU completed. Sender's account total - 847. Recipient's final account - 23129
+12-08-2023 13:45:35.045 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account }Rqm#LLEk to account 8P-fn)RGU completed. Transaction amount  - 9153. In the thread - pool-1-thread-1
+12-08-2023 13:45:35.045 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account R;{<dLUf* started. Transaction amount - 6058. In the thread - pool-1-thread-1
+12-08-2023 13:45:35.045 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account R;{<dLUf* started. Transaction amount - 6058
+12-08-2023 13:45:35.524 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account RNIV;F8$p to account R;{<dLUf* completed. Sender's account total - 3263. Recipient's final account - 10527
+12-08-2023 13:45:35.525 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account RNIV;F8$p to account R;{<dLUf* completed. Transaction amount  - 8917. In the thread - pool-1-thread-2
+12-08-2023 13:45:35.525 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account ~%%f0L9X% started. Transaction amount - 2187. In the thread - pool-1-thread-2
+12-08-2023 13:45:35.525 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account ~%%f0L9X% started. Transaction amount - 2187
+12-08-2023 13:45:37.576 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account 8P-fn)RGU completed. Sender's account total - 13848. Recipient's final account - 23163
+12-08-2023 13:45:37.577 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account 8P-fn)RGU completed. Transaction amount  - 34. In the thread - pool-1-thread-3
+12-08-2023 13:45:37.577 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account @l5yTG)uh started. Transaction amount - 8149. In the thread - pool-1-thread-3
+12-08-2023 13:45:37.577 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account @l5yTG)uh started. Transaction amount - 8149
+12-08-2023 13:45:39.385 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account R;{<dLUf* completed. Sender's account total - 17438. Recipient's final account - 16585
+12-08-2023 13:45:39.385 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account R;{<dLUf* completed. Transaction amount  - 6058. In the thread - pool-1-thread-1
+12-08-2023 13:45:39.385 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- started. Transaction amount - 8692. In the thread - pool-1-thread-1
+12-08-2023 13:45:39.385 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- started. Transaction amount - 8692
+12-08-2023 13:45:40.529 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account @l5yTG)uh
+12-08-2023 13:45:40.529 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account ~%%f0L9X% canceled. Transaction amount  - 2187. Not enough funds on the sender's account
+12-08-2023 13:45:40.530 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account @l5yTG)uh started. Transaction amount - 2830. In the thread - pool-1-thread-2
+12-08-2023 13:45:40.530 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account @l5yTG)uh started. Transaction amount - 2830
+12-08-2023 13:45:43.485 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- completed. Sender's account total - 8746. Recipient's final account - 25070
+12-08-2023 13:45:43.486 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ~%%f0L9X% to account d]T1]?Z5- completed. Transaction amount  - 8692. In the thread - pool-1-thread-1
+12-08-2023 13:45:43.486 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account d&,(wh5C{ started. Transaction amount - 9361. In the thread - pool-1-thread-1
+12-08-2023 13:45:43.486 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account d&,(wh5C{ started. Transaction amount - 9361
+12-08-2023 13:45:43.607 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account R;{<dLUf* to account @l5yTG)uh completed. Sender's account total - 8436. Recipient's final account - 9679
+12-08-2023 13:45:43.607 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account R;{<dLUf* to account @l5yTG)uh completed. Transaction amount  - 8149. In the thread - pool-1-thread-3
+12-08-2023 13:45:43.607 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU started. Transaction amount - 7026. In the thread - pool-1-thread-3
+12-08-2023 13:45:43.607 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU started. Transaction amount - 7026
+12-08-2023 13:45:46.236 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account /*3eTEBO? to account @l5yTG)uh completed. Sender's account total - 11018. Recipient's final account - 12509
+12-08-2023 13:45:46.236 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account /*3eTEBO? to account @l5yTG)uh completed. Transaction amount  - 2830. In the thread - pool-1-thread-2
+12-08-2023 13:45:47.295 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU completed. Sender's account total - 18044. Recipient's final account - 30189
+12-08-2023 13:45:47.296 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account d]T1]?Z5- to account 8P-fn)RGU completed. Transaction amount  - 7026. In the thread - pool-1-thread-3
+12-08-2023 13:45:49.223 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account @l5yTG)uh to account d&,(wh5C{ completed. Sender's account total - 3148. Recipient's final account - 12842
+12-08-2023 13:45:49.224 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account @l5yTG)uh to account d&,(wh5C{ completed. Transaction amount  - 9361. In the thread - pool-1-thread-1
+12-08-2023 13:45:49.227 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: d&,(wh5C{ || total money: 12842
+, Account id: ~%%f0L9X% || total money: 8746
+, Account id: /*3eTEBO? || total money: 11018
+, Account id: @l5yTG)uh || total money: 3148
+, Account id: d]T1]?Z5- || total money: 18044
+, Account id: IJl7DeD62 || total money: 3467
+, Account id: RNIV;F8$p || total money: 3263
+, Account id: R;{<dLUf* || total money: 8436
+, Account id: }Rqm#LLEk || total money: 847
+, Account id: 8P-fn)RGU || total money: 30189
+]
+12-08-2023 13:45:49.227 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
+12-08-2023 15:56:02.829 [main] INFO  com.ivettepe.service.AccountService.generateAccountList - Total invoices generated: 10
+12-08-2023 15:56:02.835 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account ]fmVP!:>/ started. Transaction amount - 1912. In the thread - pool-1-thread-1
+12-08-2023 15:56:02.835 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 3931. In the thread - pool-1-thread-3
+12-08-2023 15:56:02.835 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account ]fmVP!:>/ started. Transaction amount - 2118. In the thread - pool-1-thread-2
+12-08-2023 15:56:02.835 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 3931
+12-08-2023 15:56:02.835 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account ]fmVP!:>/ started. Transaction amount - 2118
+12-08-2023 15:56:02.835 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account ]fmVP!:>/ started. Transaction amount - 1912
+12-08-2023 15:56:05.635 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account ]fmVP!:>/ completed. Sender's account total - 7882. Recipient's final account - 12118
+12-08-2023 15:56:05.636 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account ]fmVP!:>/ completed. Transaction amount  - 2118. In the thread - pool-1-thread-2
+12-08-2023 15:56:05.636 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. started. Transaction amount - 2626. In the thread - pool-1-thread-2
+12-08-2023 15:56:05.636 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. started. Transaction amount - 2626
+12-08-2023 15:56:05.781 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] completed. Sender's account total - 6069. Recipient's final account - 13931
+12-08-2023 15:56:05.781 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] completed. Transaction amount  - 3931. In the thread - pool-1-thread-3
+12-08-2023 15:56:05.782 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ started. Transaction amount - 9479. In the thread - pool-1-thread-3
+12-08-2023 15:56:05.782 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ started. Transaction amount - 9479
+12-08-2023 15:56:09.123 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. completed. Sender's account total - 3443. Recipient's final account - 12626
+12-08-2023 15:56:09.124 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. completed. Transaction amount  - 2626. In the thread - pool-1-thread-2
+12-08-2023 15:56:09.124 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ started. Transaction amount - 2238. In the thread - pool-1-thread-2
+12-08-2023 15:56:09.124 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ started. Transaction amount - 2238
+12-08-2023 15:56:09.403 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account ]fmVP!:>/ completed. Sender's account total - 12019. Recipient's final account - 14030
+12-08-2023 15:56:09.403 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account ]fmVP!:>/ completed. Transaction amount  - 1912. In the thread - pool-1-thread-1
+12-08-2023 15:56:09.403 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account 1wm6;,w/y started. Transaction amount - 9085. In the thread - pool-1-thread-1
+12-08-2023 15:56:09.404 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account 1wm6;,w/y started. Transaction amount - 9085
+12-08-2023 15:56:11.971 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account 1wm6;,w/y completed. Sender's account total - 2934. Recipient's final account - 19085
+12-08-2023 15:56:11.971 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account 1wm6;,w/y completed. Transaction amount  - 9085. In the thread - pool-1-thread-1
+12-08-2023 15:56:11.971 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj started. Transaction amount - 3390. In the thread - pool-1-thread-1
+12-08-2023 15:56:11.972 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj started. Transaction amount - 3390
+12-08-2023 15:56:12.553 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ completed. Sender's account total - 521. Recipient's final account - 23509
+12-08-2023 15:56:12.554 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ completed. Transaction amount  - 9479. In the thread - pool-1-thread-3
+12-08-2023 15:56:12.555 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account N#cw0fE&n started. Transaction amount - 5221. In the thread - pool-1-thread-3
+12-08-2023 15:56:12.555 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account N#cw0fE&n started. Transaction amount - 5221
+12-08-2023 15:56:14.184 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account N#cw0fE&n
+12-08-2023 15:56:14.184 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account N#cw0fE&n to account ]fmVP!:>/ canceled. Transaction amount  - 2238. Not enough funds on the sender's account
+12-08-2023 15:56:14.184 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account <RMOI~#<. started. Transaction amount - 3085. In the thread - pool-1-thread-2
+12-08-2023 15:56:14.184 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account <RMOI~#<. started. Transaction amount - 3085
+12-08-2023 15:56:15.627 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account dZ\!cLG]]
+12-08-2023 15:56:15.627 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account <RMOI~#<. canceled. Transaction amount  - 3085. Not enough funds on the sender's account
+12-08-2023 15:56:15.627 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account &WWwd\4$( started. Transaction amount - 1608. In the thread - pool-1-thread-2
+12-08-2023 15:56:15.627 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 6'6_^n%;w to account &WWwd\4$( started. Transaction amount - 1608
+12-08-2023 15:56:15.820 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj completed. Sender's account total - 6610. Recipient's final account - 13390
+12-08-2023 15:56:15.820 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj completed. Transaction amount  - 3390. In the thread - pool-1-thread-1
+12-08-2023 15:56:15.820 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &WWwd\4$( to account oNsc7Gfo6 started. Transaction amount - 5456. In the thread - pool-1-thread-1
+12-08-2023 15:56:15.821 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &WWwd\4$( to account oNsc7Gfo6 started. Transaction amount - 5456
+12-08-2023 15:56:17.396 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account N#cw0fE&n completed. Sender's account total - 2661. Recipient's final account - 5742
+12-08-2023 15:56:17.396 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account N#cw0fE&n completed. Transaction amount  - 5221. In the thread - pool-1-thread-3
+12-08-2023 15:56:17.397 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 7455. In the thread - pool-1-thread-3
+12-08-2023 15:56:17.397 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 7455
+12-08-2023 15:56:18.479 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account oNsc7Gfo6
+12-08-2023 15:56:18.480 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] canceled. Transaction amount  - 7455. Not enough funds on the sender's account
+12-08-2023 15:56:18.481 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account ?b(j4K~bj started. Transaction amount - 7670. In the thread - pool-1-thread-3
+12-08-2023 15:56:18.481 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account ?b(j4K~bj started. Transaction amount - 7670
+12-08-2023 15:56:18.922 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 6'6_^n%;w to account &WWwd\4$( completed. Sender's account total - 5002. Recipient's final account - 11608
+12-08-2023 15:56:18.923 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account &WWwd\4$( completed. Transaction amount  - 1608. In the thread - pool-1-thread-2
+12-08-2023 15:56:18.923 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account $~af:>bHN started. Transaction amount - 3044. In the thread - pool-1-thread-2
+12-08-2023 15:56:18.923 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account $~af:>bHN started. Transaction amount - 3044
+12-08-2023 15:56:19.863 [pool-1-thread-3] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account $~af:>bHN
+12-08-2023 15:56:19.863 [pool-1-thread-3] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account ?b(j4K~bj canceled. Transaction amount  - 7670. Not enough funds on the sender's account
+12-08-2023 15:56:19.864 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account N#cw0fE&n started. Transaction amount - 879. In the thread - pool-1-thread-3
+12-08-2023 15:56:19.864 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account N#cw0fE&n started. Transaction amount - 879
+12-08-2023 15:56:21.730 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &WWwd\4$( to account oNsc7Gfo6 completed. Sender's account total - 6152. Recipient's final account - 8899
+12-08-2023 15:56:21.731 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &WWwd\4$( to account oNsc7Gfo6 completed. Transaction amount  - 5456. In the thread - pool-1-thread-1
+12-08-2023 15:56:21.731 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]fmVP!:>/ to account <RMOI~#<. started. Transaction amount - 7648. In the thread - pool-1-thread-1
+12-08-2023 15:56:21.731 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]fmVP!:>/ to account <RMOI~#<. started. Transaction amount - 7648
+12-08-2023 15:56:23.666 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account $~af:>bHN completed. Sender's account total - 16041. Recipient's final account - 5705
+12-08-2023 15:56:23.666 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account $~af:>bHN completed. Transaction amount  - 3044. In the thread - pool-1-thread-2
+12-08-2023 15:56:23.666 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account 6'6_^n%;w started. Transaction amount - 6298. In the thread - pool-1-thread-2
+12-08-2023 15:56:23.666 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account $~af:>bHN to account 6'6_^n%;w started. Transaction amount - 6298
+12-08-2023 15:56:24.534 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]fmVP!:>/ to account <RMOI~#<. completed. Sender's account total - 15861. Recipient's final account - 20274
+12-08-2023 15:56:24.535 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]fmVP!:>/ to account <RMOI~#<. completed. Transaction amount  - 7648. In the thread - pool-1-thread-1
+12-08-2023 15:56:24.535 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. started. Transaction amount - 1572. In the thread - pool-1-thread-1
+12-08-2023 15:56:24.535 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. started. Transaction amount - 1572
+12-08-2023 15:56:24.889 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account $~af:>bHN
+12-08-2023 15:56:24.889 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account $~af:>bHN to account 6'6_^n%;w canceled. Transaction amount  - 6298. Not enough funds on the sender's account
+12-08-2023 15:56:24.889 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ?b(j4K~bj to account 1wm6;,w/y started. Transaction amount - 6948. In the thread - pool-1-thread-2
+12-08-2023 15:56:24.889 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ?b(j4K~bj to account 1wm6;,w/y started. Transaction amount - 6948
+12-08-2023 15:56:26.775 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account N#cw0fE&n completed. Sender's account total - 15162. Recipient's final account - 6621
+12-08-2023 15:56:26.775 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account N#cw0fE&n completed. Transaction amount  - 879. In the thread - pool-1-thread-3
+12-08-2023 15:56:26.775 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n started. Transaction amount - 7161. In the thread - pool-1-thread-3
+12-08-2023 15:56:26.775 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n started. Transaction amount - 7161
+12-08-2023 15:56:27.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. completed. Sender's account total - 7327. Recipient's final account - 21846
+12-08-2023 15:56:27.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account <RMOI~#<. completed. Transaction amount  - 1572. In the thread - pool-1-thread-1
+12-08-2023 15:56:27.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account <RMOI~#<. to account $~af:>bHN started. Transaction amount - 7370. In the thread - pool-1-thread-1
+12-08-2023 15:56:27.518 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account <RMOI~#<. to account $~af:>bHN started. Transaction amount - 7370
+12-08-2023 15:56:29.581 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ?b(j4K~bj to account 1wm6;,w/y completed. Sender's account total - 6442. Recipient's final account - 22110
+12-08-2023 15:56:29.582 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ?b(j4K~bj to account 1wm6;,w/y completed. Transaction amount  - 6948. In the thread - pool-1-thread-2
+12-08-2023 15:56:29.583 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 5256. In the thread - pool-1-thread-2
+12-08-2023 15:56:29.583 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] started. Transaction amount - 5256
+12-08-2023 15:56:30.555 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n completed. Sender's account total - 166. Recipient's final account - 13782
+12-08-2023 15:56:30.556 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n completed. Transaction amount  - 7161. In the thread - pool-1-thread-3
+12-08-2023 15:56:30.556 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account oNsc7Gfo6 started. Transaction amount - 4184. In the thread - pool-1-thread-3
+12-08-2023 15:56:30.556 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account oNsc7Gfo6 started. Transaction amount - 4184
+12-08-2023 15:56:30.951 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account <RMOI~#<. to account $~af:>bHN completed. Sender's account total - 14476. Recipient's final account - 13075
+12-08-2023 15:56:30.951 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account <RMOI~#<. to account $~af:>bHN completed. Transaction amount  - 7370. In the thread - pool-1-thread-1
+12-08-2023 15:56:30.951 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n started. Transaction amount - 2686. In the thread - pool-1-thread-1
+12-08-2023 15:56:30.951 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n started. Transaction amount - 2686
+12-08-2023 15:56:31.763 [pool-1-thread-2] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account oNsc7Gfo6
+12-08-2023 15:56:31.764 [pool-1-thread-2] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account dZ\!cLG]] canceled. Transaction amount  - 5256. Not enough funds on the sender's account
+12-08-2023 15:56:31.764 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account &WWwd\4$( started. Transaction amount - 219. In the thread - pool-1-thread-2
+12-08-2023 15:56:31.764 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account &WWwd\4$( started. Transaction amount - 219
+12-08-2023 15:56:34.912 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account oNsc7Gfo6 completed. Sender's account total - 17926. Recipient's final account - 4350
+12-08-2023 15:56:34.913 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account oNsc7Gfo6 completed. Transaction amount  - 4184. In the thread - pool-1-thread-3
+12-08-2023 15:56:34.913 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]fmVP!:>/ to account oNsc7Gfo6 started. Transaction amount - 8227. In the thread - pool-1-thread-3
+12-08-2023 15:56:34.913 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]fmVP!:>/ to account oNsc7Gfo6 started. Transaction amount - 8227
+12-08-2023 15:56:37.690 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 1wm6;,w/y to account &WWwd\4$( completed. Sender's account total - 17707. Recipient's final account - 6371
+12-08-2023 15:56:37.691 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 1wm6;,w/y to account &WWwd\4$( completed. Transaction amount  - 219. In the thread - pool-1-thread-2
+12-08-2023 15:56:37.691 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account N#cw0fE&n started. Transaction amount - 484. In the thread - pool-1-thread-2
+12-08-2023 15:56:37.692 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account N#cw0fE&n started. Transaction amount - 484
+12-08-2023 15:56:38.027 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n completed. Sender's account total - 1664. Recipient's final account - 16468
+12-08-2023 15:56:38.028 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account oNsc7Gfo6 to account N#cw0fE&n completed. Transaction amount  - 2686. In the thread - pool-1-thread-1
+12-08-2023 15:56:38.028 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj started. Transaction amount - 8151. In the thread - pool-1-thread-1
+12-08-2023 15:56:38.028 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj started. Transaction amount - 8151
+12-08-2023 15:56:39.526 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account 6'6_^n%;w
+12-08-2023 15:56:39.526 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account 6'6_^n%;w to account ?b(j4K~bj canceled. Transaction amount  - 8151. Not enough funds on the sender's account
+12-08-2023 15:56:39.526 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &WWwd\4$( to account <RMOI~#<. started. Transaction amount - 8851. In the thread - pool-1-thread-1
+12-08-2023 15:56:39.526 [pool-1-thread-1] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account &WWwd\4$( to account <RMOI~#<. started. Transaction amount - 8851
+12-08-2023 15:56:41.343 [pool-1-thread-1] INFO  com.ivettepe.entity.Account.makeDebit - Insufficient funds in the account &WWwd\4$(
+12-08-2023 15:56:41.343 [pool-1-thread-1] WARN  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account &WWwd\4$( to account <RMOI~#<. canceled. Transaction amount  - 8851. Not enough funds on the sender's account
+12-08-2023 15:56:41.587 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account ]fmVP!:>/ to account oNsc7Gfo6 completed. Sender's account total - 7634. Recipient's final account - 9891
+12-08-2023 15:56:41.587 [pool-1-thread-3] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account ]fmVP!:>/ to account oNsc7Gfo6 completed. Transaction amount  - 8227. In the thread - pool-1-thread-3
+12-08-2023 15:56:41.593 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeDebit - Transfer operation from account dZ\!cLG]] to account N#cw0fE&n completed. Sender's account total - 2450. Recipient's final account - 16952
+12-08-2023 15:56:41.594 [pool-1-thread-2] INFO  com.ivettepe.service.AccountService.makeTransactionalFromTo - Transfer operation from account dZ\!cLG]] to account N#cw0fE&n completed. Transaction amount  - 484. In the thread - pool-1-thread-2
+12-08-2023 15:56:41.598 [main] INFO  c.i.service.TransactionService.start - After 30 transactions, account status:
+ [Account id: 1wm6;,w/y || total money: 17707
+, Account id: <RMOI~#<. || total money: 14476
+, Account id: ?b(j4K~bj || total money: 6442
+, Account id: 6'6_^n%;w || total money: 5002
+, Account id: dZ\!cLG]] || total money: 2450
+, Account id: ]fmVP!:>/ || total money: 7634
+, Account id: $~af:>bHN || total money: 13075
+, Account id: N#cw0fE&n || total money: 16952
+, Account id: &WWwd\4$( || total money: 6371
+, Account id: oNsc7Gfo6 || total money: 9891
+]
+12-08-2023 15:56:41.598 [main] INFO  c.i.service.TransactionService.start - Total amount in the accounts: 100000
